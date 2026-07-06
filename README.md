@@ -1,4 +1,4 @@
-# echofoxx
+# EchoKnight (echofoxx)
 
 Builder of mission-focused web applications, executive dashboards, local-first AI tools, and data standards modernization prototypes.
 
